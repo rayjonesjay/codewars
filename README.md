@@ -1,8 +1,8 @@
 # codewars
 
-##ABOUT
+#ABOUT
 I wil be posting challenges that I tackled in codewars.
 
-##PROGRAMMING LANGUAGE
+#PROGRAMMING LANGUAGE
 I will be using python
 
